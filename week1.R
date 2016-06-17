@@ -1,4 +1,4 @@
-#title           :w1practice.R
+#title           :week1.R
 #description     :This is a practice file from week 1 lessons.
 #author		       :Hizkia Febianto
 #date            :20170609
